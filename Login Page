@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>FORM</title>
+</head>
+<body>
+<h2><strong>Please enter your details</strong></h2>
+<form method=""  actions="">
+<label for="username">Enter your name:</label>
+<input type="text" id="username" name="username" placeholder="enter name.."required><br><br>
+<label for="username">Create a password:</label>
+<input type="password" id="password" name="password" placeholder="enter password.."required><br><br>
+
+<a href="./homepage.html">Login</a>
+<button colspan="3">Forgot Password</button>
+
+</form>
+</body>
+</html>
