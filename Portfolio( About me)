@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hi! I'm Manasi</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="About Me">
+    <meta name="author" content="Manasi Nagar">  
+    <style type="text/css">
+body {
+    background:white;
+    Font-family:Arial;
+}
+h2 {
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    position: relative;
+    margin: 30px 0 60px;
+}
+</style>
+
+</head>
+<body>
+    <header class="header" >
+            <div class="profile-content float-left">
+                <h1 class="name1">Hi! I'm Manasi Nagar</h1>
+            <div class="container clearfix" id="particles-js" >  
+            <img class="profile-image" src="./images/about_me.jpg" alt="About Me">
+    <hr>
+    </header>
+<div class="container sections-wrapper">
+        <div class="row">
+            <div class="primary col-lg-8 col-12">
+                <section class="about section">
+                    <div class="section-inner">
+                        <h2 class="heading">About Me</h2>
+                        <div class="content">
+                            <p>I am currently pursuing my Bachelor of Technology in Computer Science from JIET College of Engineering, Jodhpur. I am passionate about learning new things and especially when it comes to technology. I have a positive attitude towards life and handle every situation with patience. I am a keen learner and a smart worker. I always have a positive approach to all my work.</p>
+                            <ul style="list-style-type:circle;">
+                            <li>Passionate learner</li>
+                            <li>Idea hamster & creative</li>
+                            <li>Adhesive & focused toward my work</li>  
+                        </div>
+                    </div>             
+                </section>
+
+               <section class="Hobbies Section">
+                    <div class="section-inner">
+                        <h2 class="heading">HOBBIES</h2>
+                        <div class="content">
+                           <ul>
+                             <li>Playing guitar</li>
+			     <li>Internet surfing making useful things out</li>
+			     <li>Article/Content writing</li>
+			     <li>Reading books</li>
+			   </ul>
+                         </div>
+                    </div>
+                 </section>
+
+              <section class="Interest Section">
+                    <div class="section-inner">
+                        <h2 class="heading">Technical Interests</h2>
+                        <div class="content">
+                        <p><strong>Have good command and interest in the following fields:</strong></p>
+                           <ul>
+                             <li>Machine Learning</li>
+			     <li>Python</li>
+			     <li>C language</li>
+			     <li>C++</li>
+			   </ul>
+                         </div>
+                    </div>
+                 </section>
+
+		<section class="Professional Summary">
+                    <div class="section-inner">
+                        <h2 class="heading">Professional Summary</h2>
+                        <div class="content">
+			<p>I had done my schooling from Central Academy SR.SEC school from Jodhpur. Currently pursuing my B.TECH from JIET College of Engineering,jodhpur.</p><br>
+                           <h3><strong>Training/Internship</strong></h3>
+				<ol>
+				   <li>I had done my training in Machine learning. With the help of Machine Learning it make things easy to develop real world models or projects.</li>
+				</ol><br>
+			   <h3><strong>Technical Skills</strong></h3>
+				<ol>
+				   <li>Programming languages:  C++, C, Basics of python</li>
+				   <li>Technologies: Machine learning</li>
+				   <li>Software’s: Dev C++, NetBeans , MS Office Suite(MS Word, MS Powerpoint, MS Excel)</li>
+				</ol><br>
+			  <h3><strong>Soft Skills</strong></h3>
+				<ol>
+				  <li>Team work quality</li>
+				  <li>Self – Confidence</li>
+				  <li>Good Communication skills</li>
+				  <li>Good knowledge of internet surfing</li>
+				</ol> 
+                         </div>
+                    </div>
+                 </section>
+
+</body>
+</html> 
